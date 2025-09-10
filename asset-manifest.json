@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/AngelesGallegoCandidatura/static/css/main.23533b91.css",
-    "main.js": "/AngelesGallegoCandidatura/static/js/main.b6630b22.js",
+    "main.css": "/AngelesGallegoCandidatura/static/css/main.f6017c52.css",
+    "main.js": "/AngelesGallegoCandidatura/static/js/main.5c4240f9.js",
     "static/js/488.c344701a.chunk.js": "/AngelesGallegoCandidatura/static/js/488.c344701a.chunk.js",
+    "static/media/Video_Candidatura.mov": "/AngelesGallegoCandidatura/static/media/Video_Candidatura.996cbfc4b8a561f290ca.mov",
     "static/media/b3.jpg": "/AngelesGallegoCandidatura/static/media/b3.f7d42aafa350cd2bc880.jpg",
     "static/media/b1.jpg": "/AngelesGallegoCandidatura/static/media/b1.c628c918f4313bd9c35d.jpg",
     "static/media/lineaDeVida.png": "/AngelesGallegoCandidatura/static/media/lineaDeVida.741df2b5b0b92776e2f4.png",
@@ -10,12 +11,12 @@
     "static/media/logo.png": "/AngelesGallegoCandidatura/static/media/logo.873723ee417cf3872159.png",
     "static/media/b2.jpg": "/AngelesGallegoCandidatura/static/media/b2.0effcb5cc1aeb752eeb1.jpg",
     "index.html": "/AngelesGallegoCandidatura/index.html",
-    "main.23533b91.css.map": "/AngelesGallegoCandidatura/static/css/main.23533b91.css.map",
-    "main.b6630b22.js.map": "/AngelesGallegoCandidatura/static/js/main.b6630b22.js.map",
+    "main.f6017c52.css.map": "/AngelesGallegoCandidatura/static/css/main.f6017c52.css.map",
+    "main.5c4240f9.js.map": "/AngelesGallegoCandidatura/static/js/main.5c4240f9.js.map",
     "488.c344701a.chunk.js.map": "/AngelesGallegoCandidatura/static/js/488.c344701a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23533b91.css",
-    "static/js/main.b6630b22.js"
+    "static/css/main.f6017c52.css",
+    "static/js/main.5c4240f9.js"
   ]
 }
