@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AngelesGallegoCandidatura/static/css/main.808aad87.css",
-    "main.js": "/AngelesGallegoCandidatura/static/js/main.af133814.js",
-    "static/js/488.c344701a.chunk.js": "/AngelesGallegoCandidatura/static/js/488.c344701a.chunk.js",
-    "static/media/Video_Candidatura.mp4": "/AngelesGallegoCandidatura/static/media/Video_Candidatura.d87cc4ce50b35055796e.mp4",
-    "static/media/b3.jpg": "/AngelesGallegoCandidatura/static/media/b3.f7d42aafa350cd2bc880.jpg",
-    "static/media/b1.jpg": "/AngelesGallegoCandidatura/static/media/b1.c628c918f4313bd9c35d.jpg",
-    "static/media/candidate.png": "/AngelesGallegoCandidatura/static/media/candidate.132ede760e254b08302e.png",
-    "static/media/lineaDeVida.png": "/AngelesGallegoCandidatura/static/media/lineaDeVida.2135b7503d80d118a7d4.png",
-    "static/media/logo.png": "/AngelesGallegoCandidatura/static/media/logo.873723ee417cf3872159.png",
-    "static/media/b2.jpg": "/AngelesGallegoCandidatura/static/media/b2.0effcb5cc1aeb752eeb1.jpg",
-    "index.html": "/AngelesGallegoCandidatura/index.html",
-    "main.808aad87.css.map": "/AngelesGallegoCandidatura/static/css/main.808aad87.css.map",
-    "main.af133814.js.map": "/AngelesGallegoCandidatura/static/js/main.af133814.js.map",
-    "488.c344701a.chunk.js.map": "/AngelesGallegoCandidatura/static/js/488.c344701a.chunk.js.map"
+    "main.css": "/static/css/main.808aad87.css",
+    "main.js": "/static/js/main.e3e5b23e.js",
+    "static/js/488.c344701a.chunk.js": "/static/js/488.c344701a.chunk.js",
+    "static/media/Video_Candidatura.mp4": "/static/media/Video_Candidatura.d87cc4ce50b35055796e.mp4",
+    "static/media/b3.jpg": "/static/media/b3.f7d42aafa350cd2bc880.jpg",
+    "static/media/b1.jpg": "/static/media/b1.c628c918f4313bd9c35d.jpg",
+    "static/media/candidate.png": "/static/media/candidate.132ede760e254b08302e.png",
+    "static/media/lineaDeVida.png": "/static/media/lineaDeVida.2135b7503d80d118a7d4.png",
+    "static/media/logo.png": "/static/media/logo.873723ee417cf3872159.png",
+    "static/media/b2.jpg": "/static/media/b2.0effcb5cc1aeb752eeb1.jpg",
+    "index.html": "/index.html",
+    "main.808aad87.css.map": "/static/css/main.808aad87.css.map",
+    "main.e3e5b23e.js.map": "/static/js/main.e3e5b23e.js.map",
+    "488.c344701a.chunk.js.map": "/static/js/488.c344701a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.808aad87.css",
-    "static/js/main.af133814.js"
+    "static/js/main.e3e5b23e.js"
   ]
 }
